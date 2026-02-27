@@ -5,6 +5,7 @@
 # ELT Pipeline for ERP and CRM Data with Snowflake and GCP
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 This repository contains an end-to-end Data Engineering project focused on B2B Commercial Intelligence and Revenue Operations (RevOps). The pipeline implements a Data Lakehouse architecture using Snowflake as the central platform, designed to process structured and semi-structured data in a scalable and compute-cost-optimized manner.
